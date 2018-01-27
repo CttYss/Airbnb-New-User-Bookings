@@ -2,11 +2,13 @@
 Capstone Project 1 Proposal
 
 
+
 #### Problem: Where will a new guest book their first travel experience? 
 
 New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. 
 By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
-Airbnb is the client of this project, the goal is to predict in which country a new user will make his or her first booking so to better forecast demand and therefore increase revenue.  
+Airbnb is the client of this project, the goal is to predict in which country a new user will make his or her first booking so to better forecast demand and therefore increase revenue.
+
 
 #### Data are provided by Airbnb on Kaggle’s competition platform:
 
