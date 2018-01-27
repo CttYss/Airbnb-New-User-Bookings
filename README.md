@@ -11,11 +11,17 @@ Airbnb is the client of this project, the goal is to predict in which country a 
 * Data are provided by Airbnb on Kaggle’s competition platform:
 
 ```train_users.csv - the training set of users```
+
 ```test_users.csv - the test set of users```
+
 ```sessions.csv - web sessions log for users```
+
 ```countries.csv - summary statistics of destination countries in this dataset and their locations```
+
 ```age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination```
+
 ```sample_submission.csv - correct format for submitting your predictions```
+
 
 * My Approach to this project:
 
