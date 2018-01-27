@@ -35,7 +35,7 @@ Airbnb is the client of this project, the goal is to predict in which country a 
 
 4. Data Analysis: data manipulation and modeling. 
 
-5. Final Report: explaining my approach and findings of this data exploration.
+5. Complete and submit final deliverables : report paper explaining my approach and findings of this data exploration.
 
 
 #### My Deliverables:
