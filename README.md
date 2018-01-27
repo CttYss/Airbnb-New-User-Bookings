@@ -33,7 +33,9 @@ Airbnb is the client of this project, the goal is to predict in which country a 
 
 3. Data exploration: use of classification, inferential statistics and data visualization to find interesting trends and identify significant features in the data set.
 
-4. Final Report: explaining my approach and findings of this data exploration.
+4. Data Analysis: data manipulation and modeling. 
+
+5. Final Report: explaining my approach and findings of this data exploration.
 
 
 #### My Deliverables:
